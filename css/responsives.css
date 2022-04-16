@@ -1,0 +1,584 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    .header-lg-call {
+        display: none !important;
+    }
+
+    .top-social {
+        display: none !important;
+    }
+
+    .navbar-toggler-icon {
+        color: #ffac41;
+        border: 3px solid #ffac41 !important;
+        padding-top: 5px;
+        font-size: 30px;
+        border-radius: 10px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .mylogo {
+        width: 60px;
+    }
+
+    .navbar-toggler {
+        padding: 0;
+    }
+
+    .navbar-toggler.collapsed {
+        position: absolute;
+        top: -65px;
+        right: 16px;
+    }
+
+    #header-area {
+        top: -40px;
+        background: #3a3138;
+        padding-top: 35px;
+    }
+
+    .navbar-toggler {
+        position: absolute;
+        top: -65px;
+        right: 16px;
+    }
+
+    ul.sub-menu {
+        z-index: 9;
+    }
+
+    .main-menu ul {
+        flex-direction: column;
+    }
+
+    .banner-wrapper .hero-part {
+        padding: 200px 0;
+    }
+
+    .banner-wrapper .hero-part h2 {
+        font-size: 40px;
+    }
+
+    .banner-wrapper .hero-part h2 span {
+        font-size: 50px;
+    }
+
+    .banner-wrapper .hero-ic li i {
+        font-size: 26px;
+    }
+
+    .banner-wrapper .hero-ic li span {
+        font-size: 12px;
+    }
+
+    .check-wrapper {
+        flex-direction: column;
+    }
+
+    .calender {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .prev {
+        display: none;
+    }
+
+    .next {
+        display: none;
+    }
+
+    .Guests {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .Children {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    #service-area {
+        padding-top: 310px;
+    }
+
+    .common-heading i {
+        font-size: 40px;
+    }
+
+    .common-heading h2 {
+        font-size: 38px;
+        margin-bottom: 20px;
+    }
+
+    .service-content h3 {
+        letter-spacing: 3px;
+        font-size: 18px;
+        padding-bottom: 20px;
+        padding-top: 30px;
+    }
+
+    .service-content p {
+        font-size: 16px;
+    }
+
+    .service-link {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    .srv-mr-t {
+        margin-top: 25px;
+    }
+
+    .room-inner {
+        margin-bottom: 25px;
+    }
+
+    #choose-area {
+        margin-top: 800px;
+    }
+
+    .common-heading p {
+        width: 370px;
+        font-size: 18px;
+    }
+
+    .galler-slide1 {
+        height: 360px;
+        margin: 0 5px;
+    }
+
+    #gallery-area {
+        padding-bottom: 40px;
+    }
+
+    .book-heading {
+        padding: 160px 0;
+    }
+
+    .book-heading h2 {
+        font-size: 30px !important;
+        word-spacing: 3px;
+    }
+
+    .common-heading p {
+        font-size: 16px;
+    }
+
+    #footer-area {
+        padding-top: 60px;
+    }
+
+    .footer-item {
+        margin-top: 50px;
+    }
+
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+    .header-lg-call {
+        display: none !important;
+    }
+
+    .top-social {
+        display: none !important;
+    }
+
+    .navbar-toggler-icon {
+        color: #ffac41;
+        border: 3px solid #ffac41 !important;
+        padding-top: 5px;
+        font-size: 30px;
+        border-radius: 10px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .mylogo {
+        width: 60px;
+    }
+
+    .navbar-toggler {
+        padding: 0;
+    }
+
+    .navbar-toggler.collapsed {
+        position: absolute;
+        top: -65px;
+        right: 16px;
+    }
+
+    #header-area {
+        top: -40px;
+        background: #3a3138;
+        padding-top: 35px;
+    }
+
+    .navbar-toggler {
+        position: absolute;
+        top: -65px;
+        right: 16px;
+    }
+
+    ul.sub-menu {
+        z-index: 9;
+    }
+
+    .main-menu ul {
+        flex-direction: column;
+    }
+
+    .banner-wrapper .hero-part {
+        padding: 200px 0;
+    }
+
+    .banner-wrapper .hero-part h2 {
+        font-size: 55px;
+    }
+
+    .banner-wrapper .hero-part h2 span {
+        font-size: 60px;
+    }
+
+    .banner-wrapper .hero-ic li i {
+        font-size: 26px;
+    }
+
+    .banner-wrapper .hero-ic li span {
+        font-size: 12px;
+    }
+
+    .check-wrapper {
+        flex-direction: column;
+    }
+
+    .calender {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .prev {
+        display: none;
+    }
+
+    .next {
+        display: none;
+    }
+
+    .Guests {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .Children {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    #service-area {
+        padding-top: 310px;
+    }
+
+    .common-heading i {
+        font-size: 40px;
+    }
+
+    .common-heading h2 {
+        font-size: 38px;
+        margin-bottom: 20px;
+    }
+
+    .service-content h3 {
+        letter-spacing: 3px;
+        font-size: 18px;
+        padding-bottom: 20px;
+        padding-top: 30px;
+    }
+
+    .service-content p {
+        font-size: 16px;
+    }
+
+    .service-link {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    .srv-mr-t {
+        margin-top: 25px !important;
+    }
+
+    .room-inner {
+        margin-bottom: 25px;
+    }
+
+    #choose-area {
+        margin-top: 800px;
+    }
+
+    .common-heading p {
+        width: 370px;
+        font-size: 18px;
+    }
+
+    .galler-slide1 {
+        height: 360px;
+        margin: 0 5px;
+    }
+
+    #gallery-area {
+        padding-bottom: 40px;
+    }
+
+    .book-heading {
+        padding: 160px 0;
+    }
+
+    .book-heading h2 {
+        font-size: 30px !important;
+        word-spacing: 3px;
+    }
+
+    .common-heading p {
+        font-size: 16px;
+    }
+
+    #footer-area {
+        padding-top: 60px;
+    }
+
+    .footer-item {
+        margin-top: 50px;
+    }
+
+    .col-xl-3.md-w {
+        width: 50%;
+    }
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+    #header-area {
+        background: transparent;
+    }
+
+    .main-menu ul {
+        flex-direction: row;
+    }
+
+    .main-menu ul li {
+        padding: 0 10px;
+    }
+
+    .banner-wrapper .hero-part {
+        padding: 300px 0;
+    }
+
+    .main-menu {
+        position: absolute;
+        top: -80px;
+        left: 210px;
+    }
+
+    .main-menu ul li a {
+        padding: 25px 5px;
+        font-size: 13px;
+    }
+
+    ul.sub-menu {
+        top: 65px;
+    }
+
+    .col-xl-3.md-w {
+        width: 50%;
+    }
+
+    #gallery-area .prev-arrow.slick-arrow {
+        top: 65%;
+    }
+
+    #gallery-area .next-arrow.slick-arrow {
+        top: 65%;
+    }
+
+    .service-img {
+        margin-top: 0 !important;
+    }
+
+
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+    .main-menu {
+        left: 410px;
+    }
+
+    .banner-wrapper .hero-part h2 span {
+        font-size: 110px;
+    }
+
+    .service-content h3 {
+        letter-spacing: 5px;
+        font-size: 22px;
+        padding-bottom: 25px;
+        padding-top: 10px;
+    }
+
+    .service-content p {
+        font-size: 20px;
+    }
+
+    .service-link {
+        margin-top: 40px;
+    }
+
+    .col-xl-3.md-w.lg-w {
+        width: 33.33%;
+    }
+
+    .room-inner h4 a {
+        font-size: 25px;
+    }
+
+    #choose-area {
+        margin-top: 15px;
+    }
+
+    .header-lg-call {
+        display: flex !important;
+    }
+
+    .mylogo a{
+        width: 90px !important;
+        position: absolute;
+        top: 18px;
+        left: 705px;
+    }
+
+    .lng {
+        z-index: 9;
+    }
+
+    .top-social {
+        display: flex !important;
+    }
+
+    .main-menu {
+        position: inherit;
+    }
+
+    ul.top-social {
+        position: absolute;
+        top: 30px;
+        right: 10px;
+    }
+
+    .main-menu ul li a {
+        padding: 25px 20px;
+        font-size: 16px;
+    }
+
+    .banner-wrapper .hero-part h2 {
+        font-size: 90px !important;
+    }
+
+    .banner-wrapper .hero-ic li i {
+        font-size: 40px !important;
+    }
+
+    .banner-wrapper .hero-ic li span {
+        font-size: 16px !important;
+    }
+
+    .calender {
+        width: 25%;
+    }
+
+    .Guests {
+        width: 25%;
+    }
+
+    .Children {
+        width: 25%;
+    }
+
+    .check-wrapper {
+        flex-direction: inherit;
+    }
+
+    #service-area {
+        padding-top: 160px;
+    }
+
+    .col-xl-3.md-w.lg-w {
+        width: 25%;
+    }
+
+    .srv-mr-t {
+        margin-top: 0px;
+    }
+
+    .galler-slide1 {
+        height: 680px;
+        margin: 0 10px;
+    }
+
+    #gallery-area .prev-arrow.slick-arrow {
+        top: 58% !important;
+    }
+
+    #gallery-area .next-arrow.slick-arrow {
+        top: 58% !important;
+    }
+
+    #gallery-area {
+        padding-bottom: 80px;
+    }
+
+    .common-heading i {
+        font-size: 50px;
+    }
+
+    .common-heading h2 {
+        font-size: 40px !important;
+    }
+
+    .common-heading p {
+        width: 510px;
+    }
+
+    .common-heading h2 {
+        font-size: 38px;
+    }
+
+    .common-heading p {
+        width: 510px !important;
+        font-size: 18px !important;
+    }
+
+    .ftr-gry-img {
+        width: 78px;
+        height: 78px;
+        margin: 4px;
+    }
+
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
